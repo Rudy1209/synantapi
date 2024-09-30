@@ -1,2 +1,2 @@
 # synantapi
-education synonym antonym generation and nlp learning
+Educational synonym and antonym generation and natural lanuage processing.
